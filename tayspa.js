@@ -41,9 +41,9 @@ Deferred.prototype = {
     var controllers=[];
 function TaysController(){
     this.config={};
-    this.config.username="oo6go2sveh3q";
-    this.config.password="ftgpbmo3h5a1";
-    this.config.base_url="http://r5.ringroost.com/api_phone/";
+    this.config.username="";
+    this.config.password="";
+    this.config.base_url="";
     this.config.headers=[
         {
             "name":"Authorization",
